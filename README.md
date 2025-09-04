@@ -142,8 +142,7 @@ streamlit run frontend.py
 ### 🔹 Asking General Queries
 <br>
 <p align="center">
-<img style="width:50%; height:auto; display: inline-flex; gap: 10px;" alt="Screenshot 2025-09-04 165415" src="https://github.com/user-attachments/assets/2dbb74b9-0448-4d40-9938-2d385958c374" />
-<img style="width:50%; height:auto; display: inline-flex; gap: 10px;" alt="Screenshot 2025-09-04 165401" src="https://github.com/user-attachments/assets/0fac64e5-a9ed-4787-bab7-b1a765b05589" />
+<img style="width:50%; height:auto; display: inline-flex; gap: 10px;" alt="Screenshot 2025-09-04 165415" src="https://github.com/user-attachments/assets/2dbb74b9-0448-4d40-9938-2d385958c374" /><img style="width:50%; height:auto; display: inline-flex; gap: 10px;" alt="Screenshot 2025-09-04 165401" src="https://github.com/user-attachments/assets/0fac64e5-a9ed-4787-bab7-b1a765b05589" />
 </p>
 
 *(Replace with your actual screenshots in the `screenshots/` folder.)*
