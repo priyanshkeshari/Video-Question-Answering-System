@@ -28,7 +28,7 @@ This project bridges **computer vision** and **natural language processing** to 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Video-Question-Answering-System.git
+git clone https://github.com/priyanshkeshari/Video-Question-Answering-System.git
 cd Video-Question-Answering-System
 ```
 
