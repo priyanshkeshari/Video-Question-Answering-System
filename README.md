@@ -126,10 +126,19 @@ streamlit run frontend.py
 ## 📸 Screenshots
 
 ### 🔹 Uploading Video & Chatting
-![Video Upload Screenshot](screenshots/upload_example.png)
+![Video Upload Screenshot](screenshots/upload_example.png)<img width="2879" height="1696" alt="Screenshot 2025-09-04 165254" src="https://github.com/user-attachments/assets/f105ef9e-820a-4f98-88fc-5bd80fe51c86" />
+<img width="2879" height="1695" alt="Screenshot 2025-09-04 163848" src="https://github.com/user-attachments/assets/d6a20b72-e16a-47e0-a232-af80ee71dfd8" />
+<img width="2879" height="1697" alt="Screenshot 2025-09-04 163749" src="https://github.com/user-attachments/assets/48cfddf8-9a67-48b7-bafc-e5eb7eb78764" />
+<img width="2879" height="1695" alt="Screenshot 2025-09-04 165626" src="https://github.com/user-attachments/assets/8a47a990-6930-45bd-a72f-145690c2f1cb" />
+<img width="2879" height="1701" alt="Screenshot 2025-09-04 165558" src="https://github.com/user-attachments/assets/94181480-a0e2-4247-b0ad-5fe4475c800f" />
+<img width="2879" height="1678" alt="Screenshot 2025-09-04 165433" src="https://github.com/user-attachments/assets/dc48076e-29ad-4bb4-930d-00bf858a264d" />
+
+
 
 ### 🔹 Asking General Queries
 ![General Query Screenshot](screenshots/general_query.png)
+<img width="2879" height="1692" alt="Screenshot 2025-09-04 165415" src="https://github.com/user-attachments/assets/2dbb74b9-0448-4d40-9938-2d385958c374" />
+<img width="2879" height="1683" alt="Screenshot 2025-09-04 165401" src="https://github.com/user-attachments/assets/0fac64e5-a9ed-4787-bab7-b1a765b05589" />
 
 *(Replace with your actual screenshots in the `screenshots/` folder.)*
 
