@@ -1,5 +1,5 @@
 # Video-Question-Answering-System
-*Interactive video intelligence powered by AI*
+*Interactive video intelligence powered by AI*<br>
 This repository contains an AI-powered system that takes a video as input, processes its content, and enables users to ask questions related to the video. The model analyzes the video, extracts key information, and generates contextually accurate answers in natural language.
 
 ---
