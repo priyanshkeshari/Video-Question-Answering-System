@@ -107,7 +107,7 @@ flowchart TD
 
 ### Run the Streamlit App
 ```bash
-streamlit run app.py
+streamlit run frontend.py
 ```
 
 ### Case 1: Video-based Q&A
