@@ -6,9 +6,10 @@ __pycache__/
 
 # Ignore specific files
 hackathon.zip
-*.pt
+
 /index.py
 
 # Ignore frontend folder
 /frontend/
+
 
