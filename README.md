@@ -113,12 +113,12 @@ streamlit run frontend.py
 ### Case 1: Video-based Q&A
 - Upload a video in the app.  
 - Ask:  
-  *“What is happening in this video?”*  
+  *“What do you see in the video?”*  
   *“Where is the person standing relative to the car?”*  
 
 ### Case 2: General Q&A
 - Without uploading a video, just ask:  
-  *“Explain quantum computing in simple terms”*  
+  *“Give the important foundations timeline in machine learning.”*  
   *“Who won the FIFA World Cup 2022?”*  
 
 ---
