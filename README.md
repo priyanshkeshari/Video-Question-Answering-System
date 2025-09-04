@@ -98,7 +98,8 @@ flowchart TD
     D --> E[BLIP Image Captioning per Frame]
     E --> F[Summarization with GPT-OSS-120B]
     F --> G[Multi-turn Q&A with User]
-    User[General Query (no video)] --> G
+    U[General Query - no video] --> G
+
 ```
 
 ---
